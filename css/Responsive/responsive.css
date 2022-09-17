@@ -1,0 +1,18 @@
+@media only screen and (max-width: 760px) {
+    body {
+      background-image: url("../../images/SignUp_Images/spices-black-background-space-text.jpg");
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-position: center;
+      background-attachment: fixed;
+    }
+    .b1{
+        width: 300px;
+    }
+    h1{
+        background-color: white;
+        font-size: 25px;
+       display: inline;
+        font-weight: 700;
+    }
+  }
